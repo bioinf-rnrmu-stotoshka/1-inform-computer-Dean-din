@@ -24,18 +24,16 @@
      
    - **Цена:** 63799 рублей [на 07.09.24](https://www.dns-shop.ru/product/1ddcfdbcd751dd14/servernaa-materinskaa-plata-supermicro-mbd-x11dpl-i-b/?utm_referrer=https%3A%2F%2Fwww.dns-shop.ru%2Fcatalog%2F17aa955316404e77%2Fservernye-materinskie-platy%2F%3Fstock%3Dnow-today-tomorrow-later-out_of_stock%26f%5B54%5D%3Dbq-br)
 
-     ```{.python}
-     700000 - 63799 
-     ```
-
 2. ***Процессор***:  
 
-   - **Серверный процессор Intel Xeon Silver 4214R OEM** (12 ядер, 24 потока)  
-
-   - **Цена:** 64999 рублей [на 07.09.24](https://www.dns-shop.ru/product/2eb7b21c334ced20/processor-intel-core-i9-10920x-oem/characteristics/)
+   - **Серверный процессор Intel Xeon Silver 4214R OEM** (12 ядер, 24 потока)
+     
+   - Т.к. один процессор может управлять лишь 6 RAM, нужно два процессора
+     
+   - **Цена:** 64999 рублей [на 07.09.24]([https://www.dns-shop.ru/product/2eb7b21c334ced20/processor-intel-core-i9-10920x-oem/characteristics/](https://www.dns-shop.ru/product/baa030bb8dd3296f/servernyj-processor-intel-xeon-silver-4214r-oem/))
+   - **Общая стоимость:** 2 × 64999 = 129 998
 
      
-
 3. ***Оперативная память***:  
 
    - **Серверная оперативная память Samsung M393A8G40BB4-CWE 64 ГБ x 8** (для поддержания 512 ГБ)  
@@ -98,7 +96,7 @@
 
 
 ### Итого:
-- Процессор: 64999
+- Процессор: 129998
 - Материнская плата: 63799
 - Оперативная память: 129592
 - Накопители: 26999
@@ -110,7 +108,7 @@
 ### Общая стоимость: 
 
 ```python
-700000 - (64999 + 63799 + 129592 + 26999 + 3899 + 7699 + 104499 + 50700) = 247814
+700000 - (129998 + 63799 + 129592 + 26999 + 3899 + 7699 + 104499 + 50700) = 182815
 ```
 
 ### Итоги:
