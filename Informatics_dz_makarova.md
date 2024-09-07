@@ -30,8 +30,8 @@
      
    - Т.к. один процессор может управлять лишь 6 RAM, нужно два процессора
      
-   - **Цена:** 64999 рублей [на 07.09.24]([https://www.dns-shop.ru/product/2eb7b21c334ced20/processor-intel-core-i9-10920x-oem/characteristics/](https://www.dns-shop.ru/product/baa030bb8dd3296f/servernyj-processor-intel-xeon-silver-4214r-oem/))
-   - **Общая стоимость:** 2 × 64999 = 129 998
+   - **Цена:** 64999 рублей [на 07.09.24](https://www.dns-shop.ru/product/baa030bb8dd3296f/servernyj-processor-intel-xeon-silver-4214r-oem/)
+   - **Общая стоимость:** 2 × 64999 = 129 998 рублей
 
      
 3. ***Оперативная память***:  
